@@ -1,5 +1,8 @@
 # Age_Emotion_Nationality_Dress
 
+**INTRODUCTION**
+This model is used to predict the Age , Nationality , Emotion and Dress color of the uploaded photo based on various different conditions. 
+
 Firstly download the model files  from the links mentioned below:-
 
 **Age_Model**-https://drive.google.com/file/d/1USAW5TK2Qixumn-agDTo3xlVu06_kEAV/view?usp=sharing    
