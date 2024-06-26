@@ -21,3 +21,7 @@ Run **gui.py** it is the main GUI(Graphic User Interface ) file that contain Tki
 
 **Task3** file is the Jupyter source file that contain the model generation and training .
 **Task3 Report.dox** is the final report file that contain all other informations .  
+
+# NOTE
+Make sure to install all the needed libraries 
+Try to run the code without debugging else may result an error (incase of vscode try Ctrl + F5 for run without debugging )
