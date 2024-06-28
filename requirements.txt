@@ -1,0 +1,11 @@
+os
+json
+tkinter
+filedialog, messagebox
+PIL , Image, ImageTk
+numpy
+tensorflow
+keras
+pandas 
+matplotlib.pyplot
+sklearn
