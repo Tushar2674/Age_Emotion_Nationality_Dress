@@ -23,6 +23,7 @@ Run **gui.py** it is the main GUI(Graphic User Interface ) file that contain Tki
 **Task3 Report.dox** is the final report file that contain all other informations .  
 
 # NOTE
+**requirements.txt** is provided for all required package details.               
 Make sure to install all the needed libraries         
 Try to run the code without debugging else may result an error (incase of vscode try Ctrl + F5 for run without debugging )           
 A demonstration vedio is also uploaded i.e **Task3_vedio.mp4**.
