@@ -1,6 +1,7 @@
 import os
 import json
 import tkinter as tk
+import PIL
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk
 import numpy as np
@@ -48,7 +49,7 @@ def predict_image():
     if file_path:
         try:
             img = Image.open(file_path)
-            img = img.resize((150,150), Image.ANTIALIAS)
+            img = img.resize((150,150), PIL.Image.Resampling.LANCZOS)
             img = ImageTk.PhotoImage(img)
             image_label.config(image=img)
             image_label.image = img  
